@@ -1,4 +1,4 @@
-public class problem3{
+public class type1problem3{
     public static void main(String [] args){
        int a=9;
        int b=4;
