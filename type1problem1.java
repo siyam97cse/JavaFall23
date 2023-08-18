@@ -1,4 +1,4 @@
-
+//If the number is positive,negative or zero
 public class type1problem1
 {
 	public static void main(String[] args) {
