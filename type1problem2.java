@@ -1,4 +1,4 @@
-public class problem2{
+public class type1problem2{
     public static void main(String [] args){
         int year = 2021;
         boolean isLeapYear;
